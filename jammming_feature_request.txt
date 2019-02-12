@@ -2,3 +2,6 @@
 Google Docs File:
 
 https://docs.google.com/document/d/1GyTNPCtJzm3Paj0HAQEOdHbmUwAAToINHyt9ete568U/edit?usp=sharing
+
+GitHub repository:
+https://github.com/abctics/jammming-project
